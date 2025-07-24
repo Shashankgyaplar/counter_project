@@ -42,7 +42,7 @@ counter-project/
 
 ## 🙋‍♂️ Author
 
-**Shashank Yaplar**  
+**Shashank.G.Yaplar**  
 
 
 
